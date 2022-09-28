@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michaelangelo285
+- 👋 Hi, I’m @Lazy_Coder
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Development Projects
